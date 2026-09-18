@@ -111,7 +111,13 @@ visible on the app's **Model Info** page.
 
 ## Screenshots
 
-_Add screenshots of the Predict, Data Management, and Analytics pages here after running the app._
+<img width="1456" height="813" alt="image" src="https://github.com/user-attachments/assets/f4b1a728-8367-450b-bf6e-e5c06aeb2215" />
+<img width="1456" height="818" alt="image" src="https://github.com/user-attachments/assets/71d469c9-606c-4e35-a6fb-0ba0df55e48d" />
+<img width="1456" height="818" alt="image" src="https://github.com/user-attachments/assets/bfab618f-30d9-4de7-a687-5ebf9a9c5ead" />
+<img width="1456" height="818" alt="image" src="https://github.com/user-attachments/assets/ac602587-6e63-4e00-9afc-388f581d2f11" />
+<img width="1535" height="380" alt="image" src="https://github.com/user-attachments/assets/c6c0e051-5af7-4f84-8fc2-bd31ef5c9ec2" />
+
+
 
 ## Future Enhancements
 
