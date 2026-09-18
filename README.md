@@ -125,3 +125,6 @@ visible on the app's **Model Info** page.
 - Allow CSV bulk upload of student records for batch prediction
 - Add authentication for multi-teacher use
 - Deploy to Streamlit Community Cloud
+
+## About Author :-
+ I am Nishchal Soni, an Integrated M.Tech student specializing in Artificial Intelligence and Machine Learning
