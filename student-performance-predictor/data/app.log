@@ -1,0 +1,42 @@
+2026-09-18 08:35:09,568 | INFO | spp | Generating training dataset...
+2026-09-18 08:35:09,572 | INFO | spp | Generated synthetic dataset with 800 rows.
+2026-09-18 08:35:09,577 | INFO | spp | Training model...
+2026-09-18 08:35:09,585 | INFO | spp | Model LinearRegression cross-val MAE: 4.891
+2026-09-18 08:35:11,219 | INFO | spp | Model RandomForestRegressor cross-val MAE: 5.691
+2026-09-18 08:35:11,220 | INFO | spp | Selected model: LinearRegression | Test MAE=4.71 RMSE=5.82 R2=0.757
+2026-09-18 08:35:11,222 | INFO | spp | Model saved to /home/claude/student-performance-predictor/modules/../models/performance_model.pkl
+2026-09-18 08:35:15,718 | INFO | spp | Generated synthetic dataset with 100 rows.
+2026-09-18 08:35:15,720 | INFO | spp | Generated synthetic dataset with 200 rows.
+2026-09-18 08:35:15,722 | INFO | spp | Generated synthetic dataset with 50 rows.
+2026-09-18 08:35:15,723 | WARNING | spp | Dropped 1 rows with missing values during cleaning.
+2026-09-18 08:35:15,731 | INFO | spp | Generated synthetic dataset with 300 rows.
+2026-09-18 08:35:15,739 | INFO | spp | Model LinearRegression cross-val MAE: 4.976
+2026-09-18 08:35:16,672 | INFO | spp | Model RandomForestRegressor cross-val MAE: 6.102
+2026-09-18 08:35:16,674 | INFO | spp | Selected model: LinearRegression | Test MAE=4.94 RMSE=6.24 R2=0.644
+2026-09-18 15:46:04,480 | INFO | spp | Database initialized at c:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 15:46:04,498 | INFO | spp | Model loaded from c:\Users\snish\Downloads\11\student-performance-predictor\modules\..\models\performance_model.pkl
+2026-09-18 15:55:32,350 | INFO | spp | Database initialized at C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 15:55:32,354 | INFO | spp | Model loaded from C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\models\performance_model.pkl
+2026-09-18 15:56:02,170 | INFO | spp | Database initialized at c:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 15:56:02,172 | INFO | spp | Model loaded from c:\Users\snish\Downloads\11\student-performance-predictor\modules\..\models\performance_model.pkl
+2026-09-18 15:57:15,347 | INFO | spp | Database initialized at C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 15:57:19,151 | INFO | spp | Database initialized at C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 15:57:19,248 | INFO | spp | Generated synthetic dataset with 800 rows.
+2026-09-18 15:57:25,017 | INFO | spp | Database initialized at C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 16:01:44,689 | INFO | spp | Generated synthetic dataset with 100 rows.
+2026-09-18 16:01:44,697 | INFO | spp | Generated synthetic dataset with 200 rows.
+2026-09-18 16:01:44,705 | INFO | spp | Generated synthetic dataset with 50 rows.
+2026-09-18 16:01:44,710 | WARNING | spp | Dropped 1 rows with missing values during cleaning.
+2026-09-18 16:01:44,731 | INFO | spp | Generated synthetic dataset with 300 rows.
+2026-09-18 16:01:44,773 | INFO | spp | Model LinearRegression cross-val MAE: 4.976
+2026-09-18 16:01:45,983 | INFO | spp | Model RandomForestRegressor cross-val MAE: 6.102
+2026-09-18 16:01:45,984 | INFO | spp | Selected model: LinearRegression | Test MAE=4.94 RMSE=6.24 R2=0.644
+2026-09-18 16:03:20,116 | INFO | spp | Database initialized at C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 16:03:20,119 | INFO | spp | Model loaded from C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\models\performance_model.pkl
+2026-09-18 16:03:22,315 | INFO | spp | Database initialized at C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 16:04:13,748 | INFO | spp | Database initialized at C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 16:04:54,532 | INFO | spp | Database initialized at C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 16:05:01,636 | INFO | spp | Database initialized at C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 16:05:17,943 | INFO | spp | Database initialized at C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
+2026-09-18 16:05:17,949 | INFO | spp | Generated synthetic dataset with 800 rows.
+2026-09-18 16:05:45,334 | INFO | spp | Database initialized at C:\Users\snish\Downloads\11\student-performance-predictor\modules\..\data\students.db
